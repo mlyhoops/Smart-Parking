@@ -6,4 +6,4 @@ This project was created to try and solve the problem of hard to find parking at
 For this project I used OpenCV to track each parking spot. Unfortunately due to time constraints, I was unable to learn enough OpenCV object detection to automatically segment out each parking space so I manually selected each parking spot for this demo. It then sent this data to Firebase Firestore to update and Android app in real time. 
 
 Go to link for the video demo.
-https://youtu.be/Vp_tNLuceOk
+https://www.youtube.com/watch?v=Vp_tNLuceOk&t=150s
